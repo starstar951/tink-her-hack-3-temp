@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# Blood Link 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Star 1
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Nikhitha Maria joseph(Carmel polytechnic college punnapra)
+- Member 2: Gowri chandran(Carmel polytechnic college punnapra)
+
 
 ### Hosted Project Link
 [mention your project hosted project link here]
